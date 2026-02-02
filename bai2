@@ -1,0 +1,5 @@
+<?php
+$name = "TOM";
+$country = "";
+echo $name . " lives in " . $country;
+?>
